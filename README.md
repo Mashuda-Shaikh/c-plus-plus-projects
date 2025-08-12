@@ -19,7 +19,7 @@ This is a basic console-based calculator written in **C++**. It performs simple 
 - Visual Studio Code (VS Code)
 - Standard I/O (cin, cout)
 
-## 📷 Screenshot (Optional)
+## 📷 Screenshot 
 ![image](https://github.com/user-attachments/assets/32245eb4-dc9b-4f51-9337-9647fa2e87b9)
 
 
@@ -46,6 +46,6 @@ This is a basic console-based project written in **C++** that takes a student's 
 - Standard Input/Output (`cin`, `cout`)
 - Conditional Statements (`if-else`)
 
-## 📷 Screenshot (Optional)
+## 📷 Screenshot
 ![image](https://github.com/user-attachments/assets/66052c2b-53a2-4da8-a440-255a38054949)
 
